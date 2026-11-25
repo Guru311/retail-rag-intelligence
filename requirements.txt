@@ -1,0 +1,34 @@
+
+# Core
+python-dotenv
+pydantic
+pydantic-settings
+
+# LLM and RAG
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+
+# Embeddings and vector database
+sentence-transformers
+faiss-cpu
+chromadb
+
+# Retrieval
+rank-bm25
+
+# Document processing
+pypdf
+pandas
+numpy
+
+# API and UI
+fastapi
+uvicorn
+streamlit
+
+# Utilities
+tiktoken
+httpx
